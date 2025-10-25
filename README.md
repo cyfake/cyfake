@@ -1,24 +1,31 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on **sudoku-solver**
-- 🌱 I’m currently learning **React, Express, MongoDB**
+Welcome to my GitHub profile!
 
-## Programming Languages
-- Javascript
+## 💻 Programming Languages
+- JavaScript
+- TypeScript
+- Java
 - Python
-- Briefly used C, C# and Java
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyfake&show_icons=true&locale=en&layout=compact" alt="cyfake" />
-
-## Tools :wrench:
-### Frontend Development
-- HTML
-- CSS
+## Frameworks & Libraries
 - React
+- Next.js
+- Streamlit
 
-### Backend Development
-- Node.js
+## Backend & Databases
+- Prisma ORM
+- Firebase
+- MongoDB
+- SQL
+- PostgreSQL
+
+## DevOps & Tools
+- Docker
+- Google Apps Script
+- n8n
 
 ### Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/cyrilpedrina/)
 - [Leetcode](https://leetcode.com/u/cyfake/)
 - [YouTube](https://www.youtube.com/@cyfake)
